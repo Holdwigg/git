@@ -1,0 +1,2 @@
+# git
+projekt Meszek Lisztal
